@@ -1,0 +1,15 @@
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\bin\Debug\VISTA.exe
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\bin\Debug\VISTA.pdb
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\bin\Debug\MODELO.dll
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\bin\Debug\MODELO.pdb
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.csproj.AssemblyReference.cache
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.exe
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.pdb
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.Historial.resources
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.Menú.resources
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\VISTA\obj\Debug\VISTA.Partidas.resources

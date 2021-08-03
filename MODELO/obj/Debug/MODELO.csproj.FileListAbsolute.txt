@@ -1,0 +1,6 @@
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\bin\Debug\MODELO.dll
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\bin\Debug\MODELO.pdb
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\obj\Debug\MODELO.dll
+C:\Users\juan\source\repos\Garcia_Chamorro_Juan_Carlos\MODELO\obj\Debug\MODELO.pdb
